@@ -5,7 +5,7 @@ on:
       composition:
         description: "Composition ID (খালি রাখলে শুধু লিস্ট দেখাবে)"
         required: false
-        default: ""
+        default: "Main"
 jobs:
   render:
     runs-on: ubuntu-latest
